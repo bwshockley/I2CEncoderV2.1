@@ -41,6 +41,7 @@ This project is avaiable on our [Tindie store!](https://www.tindie.com/products/
 
 * [C# / nanoFramework]( https://github.com/andylyonette/I2cEncoderV2)  thanks to  [Andy Lyonette](https://www.hackster.io/andy-lyonette)
 * [PSOC](https://github.com/rudydevolder/DUPPA-i2cEncoder-for-PSOC) thanks to Rudy De Volder
+* [CircuitPython Library](https://github.com/bwshockley/CircuitPython-i2cEncoderLibV21) thanks to Ben Shockley
 
    
 
